@@ -26,5 +26,3 @@ QVkImPlatformInputContext *QVkImPlatformInputContextPlugin::create(const QString
 }
 
 QT_END_NAMESPACE
-
-#include "main.moc"
